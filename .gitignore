@@ -1,0 +1,5 @@
+# ignore saved model files
+/saved_models
+
+# ignore caches
+/__pycache__
